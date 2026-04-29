@@ -41,8 +41,8 @@ Sou um estudante de **Análise e Desenvolvimento de Sistemas** de 21 anos. Estou
 
 ### 📊 Estatísticas Gerais
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelBuosi&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelBuosi&layout=compact&theme=tokyonight" />
 </p>
 
 ---
