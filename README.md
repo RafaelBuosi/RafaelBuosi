@@ -18,7 +18,9 @@ Sou um estudante de **Análise e Desenvolvimento de Sistemas** de 21 anos. Estou
 
 ---
 
+<p allign="center">
 **`Tecnologias e Interesses`**
+</p>
 <p align="center">
   <img src="metrics.topics.svg" alt="Tecnologias e Tópicos" width="100%" />
 </p>
