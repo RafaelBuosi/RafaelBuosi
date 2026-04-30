@@ -26,3 +26,13 @@ jobs:
           plugin_topics: yes
           plugin_topics_mode: icons
           plugin_topics_limit: 30
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.people.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_people: yes
+          plugin_people_types: followers, following
+          plugin_people_limit: 24
+          plugin_people_size: 28
