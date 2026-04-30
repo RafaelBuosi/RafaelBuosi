@@ -1,28 +1,30 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}] # Atualiza o perfil todo dia à meia-noite
-  workflow_dispatch:              # Permite que você rode manualmente para testar
+  schedule: [{cron: "0 0 * * *"}] # Atualiza todo dia à meia-noite
+  workflow_dispatch:               # Permite rodar manualmente
   push: {branches: ["master", "main"]}
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write              # Permissão vital para salvar os arquivos no repo
     steps:
-      # Job 1: Gera o Calendário Isométrico (3D)
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          
+          # Configurações de saída
+          filename: metrics.svg    # Nome base (opcional, mas ajuda a organizar)
+          output_action: commit    # Força o robô a fazer um commit das imagens
+          committer_branch: main
+          
+          # Plugin 1: Calendário Isométrico
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
-      # Job 2: Gera o mural de tecnologias (Hover/Icons)
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.topics.svg
-          token: NOT_NEEDED
-          base: ""
+          
+          # Plugin 2: Mural de Tecnologias
           plugin_topics: yes
           plugin_topics_mode: icons
           plugin_topics_limit: 15
