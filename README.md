@@ -13,12 +13,6 @@
 
 ---
 
-**`Sobre mim`**
-
-Sou um estudante de **Análise e Desenvolvimento de Sistemas** de 21 anos. Estou focado em aprender tecnologias modernas e boas práticas de programação, como **TypeScript** e os pilares da **POO**, para me tornar um profissional de excelência.
-
----
-
 **`Tecnologias e Interesses`**
 <p align="center">
   <img src="metrics.topics.svg" alt="Tecnologias e Tópicos" width="100%" />
