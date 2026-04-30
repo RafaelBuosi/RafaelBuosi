@@ -19,16 +19,16 @@ Sou um estudante de **Análise e Desenvolvimento de Sistemas** de 21 anos. Estou
 
 ---
 
-**`Conexões`**
+**`Tecnologias e Interesses`**
 <p align="center">
-  <img src="metrics.people.svg" alt="Seguidores e Seguindo" width="100%" />
+  <img src="metrics.topics.svg" alt="Tecnologias e Tópicos" width="100%" />
 </p>
 
 ---
 
-**`Tecnologias e Interesses`**
+**`Conexões`**
 <p align="center">
-  <img src="metrics.topics.svg" alt="Tecnologias e Tópicos" width="100%" />
+  <img src="metrics.people.svg" alt="Seguidores e Seguindo" width="100%" />
 </p>
 
 ---
