@@ -20,7 +20,7 @@ Sou um estudante de **Análise e Desenvolvimento de Sistemas** de 21 anos. Estou
 
 ### 🛠️ Tecnologias e Interesses
 <p align="center">
-  <img src="metrics.topics.svg" alt="Tecnologias e Tópicos" width="100%" />
+  <img src="metrics.topics.svg" alt="Tecnologias e Tópicos" width="75%" />
 </p>
 
 ---
