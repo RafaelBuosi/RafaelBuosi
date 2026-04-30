@@ -20,14 +20,14 @@ Sou um estudante de **Análise e Desenvolvimento de Sistemas** de 21 anos. Estou
 
 ### 🛠️ Tecnologias e Interesses
 <p align="center">
-  <img src="metrics.svg" alt="Tecnologias e Tópicos" width="100%" />
+  <img src="metrics.topics.svg" alt="Tecnologias e Tópicos" width="100%" />
 </p>
 
 ---
 
 ### 📅 Atividade e Consistência
 <p align="center">
-  <img src="metrics.svg" alt="Calendário Isométrico" width="100%" />
+  <img src="metrics.calendar.svg" alt="Calendário Isométrico" width="100%" />
 </p>
 
 ---
