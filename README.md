@@ -35,7 +35,7 @@ Sou um estudante de **Análise e Desenvolvimento de Sistemas** de 21 anos. Estou
 
 **`Atividade e Consistência`**
 <p align="center">
-  <img src="profile-3d-contrib/profile-gitblock.svg" alt="Calendário 3D" width="80%" />
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="Calendário 3D" width="80%" />
 </p>
 
 ---
