@@ -13,27 +13,26 @@
 
 ---
 
-**`Estudante de ADS`**
-### 👨‍💻 Sobre Mim
+**`Sobre mim`**
 Sou um estudante de **Análise e Desenvolvimento de Sistemas** de 21 anos. Estou focado em aprender tecnologias modernas e boas práticas de programação, como **TypeScript** e os pilares da **POO**, para me tornar um profissional de excelência.
 
 ---
 
-### 🛠️ Tecnologias e Interesses
+**`Tecnologias e Interesses`**
 <p align="center">
   <img src="metrics.topics.svg" alt="Tecnologias e Tópicos" width="100%" />
 </p>
 
 ---
 
-### 📅 Atividade e Consistência
+**`Atividade e Consistência`**
 <p align="center">
   <img src="metrics.calendar.svg" alt="Calendário Isométrico" width="75%" />
 </p>
 
 ---
 
-### 📊 Estatísticas Gerais
+**`Estatísticas Gerais`**
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelBuosi&show_icons=true&theme=tokyonight&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelBuosi&layout=compact&theme=tokyonight" />
