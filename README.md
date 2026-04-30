@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./glitchName.gif" width="400" alt="Meu GIF Personalizado">
+  <img src="./glitchedName.gif" width="400" alt="Meu GIF Personalizado">
 </p>
 
 <p align="center">
