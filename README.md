@@ -27,7 +27,7 @@ Sou um estudante de **Análise e Desenvolvimento de Sistemas** de 21 anos. Estou
 
 ### 📅 Atividade e Consistência
 <p align="center">
-  <img src="metrics.calendar.svg" alt="Calendário Isométrico" width="100%" />
+  <img src="metrics.calendar.svg" alt="Calendário Isométrico" width="75%" />
 </p>
 
 ---
