@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./glitchName.gif" width="400" alt="Meu GIF Personalizado">
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Hello+World" alt="Typing SVG" />
 </p>
 
